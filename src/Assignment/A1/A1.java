@@ -91,6 +91,7 @@ public class A1 {
             index += 1;
             answer.total += start;
             benNumber(answer, start, index, numbers);
+
         }
     }
 }
